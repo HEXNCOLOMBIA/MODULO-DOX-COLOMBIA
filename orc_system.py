@@ -1,3 +1,5 @@
+# Obfuscated by: 𝐷𝑜𝑧𝑒𝑟𝑀𝑥『𝕳𝖆𝖈𝖐𝕻𝖚𝖗𝖌𝖆𝖙𝖔𝖗𝖞』
+_ih="f401d0b2a769c5eb93b436d1419b8ea2be6705cb4f340057a67387d2141d873509f170eefd1458dd985b0b7074cae1bc531648f654b638a318db28da5f365a6b"
 import sys as _s,hashlib as _h,os as _o
 def _ic():
  try:
