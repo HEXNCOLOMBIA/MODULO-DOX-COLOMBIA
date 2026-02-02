@@ -33,8 +33,8 @@ ORC es un sistema de consultas por terminal desarrollado en **Python**, con una 
 **Windows / Linux**
 
 ```bash
-git clone https://github.com/TU-USUARIO/TU-REPO.git
-cd TU-REPO
+git clone https://github.com/HEXNCOLOMBIA/MODULO-DOX-COLOMBIA.git
+cd MODULO-DOX-COLOMBIA
 python orc_system.py
 ```
 
@@ -43,8 +43,8 @@ python orc_system.py
 ```bash
 pkg update -y
 pkg install python git -y
-git clone https://github.com/TU-USUARIO/TU-REPO.git
-cd TU-REPO
+git clone https://github.com/HEXNCOLOMBIA/MODULO-DOX-COLOMBIA.git
+cd MODULO-DOX-COLOMBIA
 python orc_system.py
 ```
 
