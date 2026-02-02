@@ -2,7 +2,7 @@
   <img src="assets/logo.png" width="500">
 </p>
 
-# ORC – Dox sistema 
+# ORC – Dox sistema   si hay erroes visita el canal de telegram o elimina el repositorio clonado y insala denuevo
 
 **Por HEXN | República de Colombia**
 
